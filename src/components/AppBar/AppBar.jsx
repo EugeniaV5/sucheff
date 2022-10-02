@@ -2,14 +2,12 @@ import { Suspense } from 'react';
 
 import { Outlet } from 'react-router-dom';
 
-import Navigation from '../Navigation/Navigation';
+import Header from '../Header/Header';
 
 const AppBar = () => {
   return (
     <div>
-      <header>
-        <Navigation />
-      </header>
+      <Header />
       <Suspense fallback="">
         <Outlet />
       </Suspense>{' '}

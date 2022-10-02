@@ -6,8 +6,9 @@ import { ThemeProvider } from 'styled-components';
 import { App } from 'components/App';
 import { theme } from './components/constants/theme';
 
+import 'assets/fonts/fonts.css';
 import 'modern-normalize/modern-normalize.css';
-import './index.css';
+// import './index.css';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>

@@ -47,9 +47,10 @@ export const NavItem = styled.li`
 `;
 
 export const NavLink = styled.a`
-  font-family: 'Franklin';
+  font-family: 'Libre Franklin', sans-serif;
   font-size: 18px;
   line-height: 1.38;
+  font-weight: 400;
   color: ${props => props.theme.colors.darkTextColor};
 
   &:hover,
@@ -61,7 +62,8 @@ export const NavLink = styled.a`
 export const Address = styled.address`
   margin-bottom: 28px;
 
-  font-family: 'FranklinLight';
+  font-family: 'Libre Franklin', sans-serif;
+  font-weight: 300;
   font-size: 13px;
   line-height: 1.15;
 `;
@@ -127,36 +129,11 @@ export const SocialMediaItem = styled.li`
 `;
 
 export const SocialMediaText = styled.p`
-  font-family: 'FranklinLight';
+  font-family: 'Libre Franklin', sans-serif;
+  font-weight: 300;
   font-size: 13px;
   line-height: 1.15;
 
   text-align: start;
   color: ${props => props.theme.colors.darkTextColor};
 `;
-
-// .credits__section {
-//   padding-top: 16px;
-//   padding-bottom: 16px;
-
-//   background-color: var(--bg-footer-dark-color);
-
-// }
-
-// .credits__container {
-//   font-family: var(--primary-font);
-//   text-align: center;
-//   @include font(13px, 300, 15px);
-// }
-
-// .credits__copy-rights:not(:last-child) {
-//   margin-bottom: 16px;
-// }
-
-// .credits__disigner {
-//   text-transform: uppercase;
-// }
-
-// .credits__designer-stan {
-//   font-weight: 500;
-// }
