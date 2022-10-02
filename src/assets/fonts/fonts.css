@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'Franklin';
+  src: local('Franklin'), url(./LibreFranklin-Regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'FranklinBold';
+  src: local('FranklinBold'), url(./LibreFranklin-Bold.ttf) format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: auto;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'FranklinLight';
+  src: local('FranklinLight'), url(./LibreFranklin-Light.ttf) format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: auto;
+  font-display: swap;
+}
