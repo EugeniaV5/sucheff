@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/sucheff/static/css/main.4584f192.css",
-    "main.js": "/sucheff/static/js/main.a41b130b.js",
+    "main.css": "/sucheff/static/css/main.17400141.css",
+    "main.js": "/sucheff/static/js/main.e01b89bf.js",
     "static/js/812.afea13b4.chunk.js": "/sucheff/static/js/812.afea13b4.chunk.js",
     "static/js/21.5384125d.chunk.js": "/sucheff/static/js/21.5384125d.chunk.js",
     "static/js/475.d10b72ca.chunk.js": "/sucheff/static/js/475.d10b72ca.chunk.js",
-    "static/js/561.d8c09296.chunk.js": "/sucheff/static/js/561.d8c09296.chunk.js",
+    "static/js/316.b58a57a4.chunk.js": "/sucheff/static/js/316.b58a57a4.chunk.js",
     "static/js/199.e357c229.chunk.js": "/sucheff/static/js/199.e357c229.chunk.js",
     "static/media/sprite.svg": "/sucheff/static/media/sprite.da25a9c0ed29594e2501816e93cf847e.svg",
     "static/media/LibreFranklin-Regular.ttf": "/sucheff/static/media/LibreFranklin-Regular.ec7b3653f4b64c1ea8e3.ttf",
     "static/media/LibreFranklin-Light.ttf": "/sucheff/static/media/LibreFranklin-Light.da251dbeea2524808add.ttf",
     "static/media/LibreFranklin-Bold.ttf": "/sucheff/static/media/LibreFranklin-Bold.5169cb555806d6196516.ttf",
     "index.html": "/sucheff/index.html",
-    "main.4584f192.css.map": "/sucheff/static/css/main.4584f192.css.map",
-    "main.a41b130b.js.map": "/sucheff/static/js/main.a41b130b.js.map",
-    "561.d8c09296.chunk.js.map": "/sucheff/static/js/561.d8c09296.chunk.js.map"
+    "main.17400141.css.map": "/sucheff/static/css/main.17400141.css.map",
+    "main.e01b89bf.js.map": "/sucheff/static/js/main.e01b89bf.js.map",
+    "316.b58a57a4.chunk.js.map": "/sucheff/static/js/316.b58a57a4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4584f192.css",
-    "static/js/main.a41b130b.js"
+    "static/css/main.17400141.css",
+    "static/js/main.e01b89bf.js"
   ]
 }
