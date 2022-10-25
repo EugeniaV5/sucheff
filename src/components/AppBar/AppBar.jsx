@@ -7,7 +7,7 @@ import Header from '../Header/Header';
 const AppBar = () => {
   return (
     <div>
-      {/* <Header /> */}
+      <Header />
       <Suspense fallback="">
         <Outlet />
       </Suspense>{' '}
