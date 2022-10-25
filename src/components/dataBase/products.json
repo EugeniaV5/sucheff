@@ -5,7 +5,8 @@
     "price": 120,
     "weight": 270,
     "contain": "лосось,крем сир,огірок",
-    "pieces": 8
+    "pieces": 8,
+    "URL": "https://omnomnom.dp.ua/image/cache/catalog/new_rolls/dscf5046-500x500.jpg"
   },
   {
     "id": "id-2",
@@ -13,7 +14,8 @@
     "price": 170,
     "weight": 270,
     "contain": "лосось,крем сир,огірок,лангустіни,салат",
-    "pieces": 8
+    "pieces": 8,
+    "URL": "https://www.recept.ua/files/uploads/rec_img/rolli-s-krevetkami.jpg"
   },
   {
     "id": "id-3",
@@ -21,7 +23,8 @@
     "price": 110,
     "weight": 250,
     "contain": "лосось,крем сир,кунжут",
-    "pieces": 8
+    "pieces": 8,
+    "URL": "https://imagedelivery.net/lHorqxvmS2N-7iEdaTakMQ/1210c333-49ab-480a-8c22-430827279800/origin"
   },
   {
     "id": "id-4",
@@ -29,7 +32,8 @@
     "price": 200,
     "weight": 300,
     "contain": "вугор,лангустини,крем сир,огірок,томаго,унагі соус",
-    "pieces": 8
+    "pieces": 8,
+    "URL": "https://ilikesushi.in.ua/image/cache/data/x60_zolotoj_drakon_st-910x500.jpg.pagespeed.ic.ji1xkfQdGe.jpg"
   },
   {
     "id": "id-5",
@@ -37,7 +41,8 @@
     "price": 160,
     "weight": 270,
     "contain": "тунець,крем сир,масаго,лосось смажений,огірок,спайсі соус",
-    "pieces": 8
+    "pieces": 8,
+    "URL": "https://roll-club.kh.ua/wp-content/uploads/2021/01/filadelfiya-s-krevetkami-xl.jpg"
   },
   {
     "id": "id-6",
@@ -45,7 +50,8 @@
     "price": 150,
     "weight": 270,
     "contain": "вугор,крем сир,огірок,унагі соус",
-    "pieces": 8
+    "pieces": 8,
+    "URL": "https://kotosushi.com.ua/storage/content/6FUWRtnZp2o1i0QPJVpleifxDqxDOTtOJMdG5GGz.png"
   },
   {
     "id": "id-7",
@@ -53,7 +59,8 @@
     "price": 200,
     "weight": 300,
     "contain": "лосось,крем сир,масаго,вугор,огірок,ікра лососева,спайсі соус",
-    "pieces": 8
+    "pieces": 8,
+    "URL": "https://sushiwok.ru/img/f01c0c83831f672b505db5585e39d03c"
   },
   {
     "id": "id-8",
@@ -61,7 +68,8 @@
     "price": 150,
     "weight": 300,
     "contain": "лосось,крем сир,томаго,огірок,ікра лососева,",
-    "pieces": 8
+    "pieces": 8,
+    "URL": "https://karakatizza.com/wp-content/uploads/2019/02/DSC_55372.jpg"
   },
   {
     "id": "id-9",
