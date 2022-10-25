@@ -6,7 +6,11 @@
     "weight": 270,
     "contain": "лосось,крем сир,огірок",
     "pieces": 8,
-    "URL": "https://omnomnom.dp.ua/image/cache/catalog/new_rolls/dscf5046-500x500.jpg"
+    "URL": "https://omnomnom.dp.ua/image/cache/catalog/new_rolls/dscf5046-500x500.jpg",
+    "cheese": true,
+    "fish": true,
+    "lettuce": true,
+    "spicy": true
   },
   {
     "id": "id-2",
@@ -15,7 +19,11 @@
     "weight": 270,
     "contain": "лосось,крем сир,огірок,лангустіни,салат",
     "pieces": 8,
-    "URL": "https://www.recept.ua/files/uploads/rec_img/rolli-s-krevetkami.jpg"
+    "URL": "https://www.recept.ua/files/uploads/rec_img/rolli-s-krevetkami.jpg",
+    "cheese": true,
+    "fish": true,
+    "lettuce": false,
+    "spicy": true
   },
   {
     "id": "id-3",
@@ -24,7 +32,11 @@
     "weight": 250,
     "contain": "лосось,крем сир,кунжут",
     "pieces": 8,
-    "URL": "https://imagedelivery.net/lHorqxvmS2N-7iEdaTakMQ/1210c333-49ab-480a-8c22-430827279800/origin"
+    "URL": "https://imagedelivery.net/lHorqxvmS2N-7iEdaTakMQ/1210c333-49ab-480a-8c22-430827279800/origin",
+    "cheese": false,
+    "fish": true,
+    "lettuce": false,
+    "spicy": true
   },
   {
     "id": "id-4",

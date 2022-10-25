@@ -11,10 +11,16 @@ import {
   PriceWrapper,
   DishPrice,
   WrapperNamePrice,
+  Kartinka,
+  IngredientsPuctures,
 } from './HotDeals.styled';
 
 import products from '../dataBase/products.json';
-console.log(products);
+import fish from '../../assets/images/fish.png';
+import cheese from '../../assets/images/cheese.png';
+import lettuce from '../../assets/images/lettuce.png';
+import spicy from '../../assets/images/spicy.png';
+// console.log(products);
 
 const hotDeals = () => {
   return (
@@ -27,12 +33,21 @@ const hotDeals = () => {
           return (
             <HotDealsListItem key={el.id}>
               <ImageThumb>
+                <IngredientsPuctures>
+                  {el.fish && <Kartinka src={fish} alt="" />}
+                  {el.cheese && <Kartinka src={cheese} alt="" />}
+                  {el.spicy && <Kartinka src={spicy} alt="" />}
+                  {el.lettuce && <Kartinka src={lettuce} alt="" />}
+                </IngredientsPuctures>
                 <ItemImage src={el.URL} alt="" />
+
+                {/* {el.ingredients.split(',')} */}
               </ImageThumb>
               <WrapperNamePrice>
                 <NameWrapper>
                   <DishName>{el.name}</DishName>
                 </NameWrapper>
+
                 <PriceWrapper>
                   <DishPrice>
                     {`${el.price}`}

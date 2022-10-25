@@ -44,6 +44,7 @@ export const ItemImage = styled.img`
 `;
 
 export const ImageThumb = styled.div`
+  position: relative;
   width: 150px;
   height: 155px;
   border-top-left-radius: 20px;
@@ -87,5 +88,23 @@ export const WrapperNamePrice = styled.div`
   justify-content: space-between;
   border-bottom-left-radius: 20px;
   border-bottom-right-radius: 20px;
-  background-color: red;
+  /* background-color: red; */
+`;
+
+export const Kartinka = styled.img`
+  /* position: absolute; */
+  /* z-index: 20; */
+  width: 30px;
+  height: 30px;
+  &:not(:last-child) {
+    margin-bottom: 5px;
+  }
+`;
+
+export const IngredientsPuctures = styled.div`
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  right: 10px;
+  top: 9px;
 `;
